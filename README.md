@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Flyx
 
-I'm a cybersecurity student, and an Enterprise IT Operations specialist with a passion for solving problems through automation, scripting, and creative side projects. By day, I manage complex enterprise infrastructure. By night, I build and share my own side projects.
-
+Cybersecurity student and enterprise IT professional specializing in infrastructure and operations within complex, highly regulated environments. When I'm not building, securing, and maintaining the systems that keep organizations running, I enjoy tinkering in my homelab and working on side projects to sharpen my skills and explore new technologies.
 ## 💼 What I Do
 
 - Design and manage secure, scalable enterprise IT environments  
