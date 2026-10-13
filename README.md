@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Flyx
+# 👋 Hi, I'm Jake
 
 I work in IT infrastructure at a FinTech company, keeping things running (and locked down) for ~1,500 users across 5 states. I've got a B.S. in Cybersecurity and an A.A.S. in Cloud Engineering Technology, and when I'm off the clock I'm usually in my homelab building something I didn't strictly need but definitely wanted.
 
